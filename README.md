@@ -1,5 +1,5 @@
 # PMPEFND
-Fine-tuned LLAMA3 checkpoints are available from https://drive.google.com/file/d/1JhCz8Qojby1CPE-GWfr0sr7i4kH92SHI/view?usp=sharing.
+Fine-tuned LLaMA3-Chinese-70B checkpoints are available from https://drive.google.com/file/d/1JhCz8Qojby1CPE-GWfr0sr7i4kH92SHI/view?usp=sharing.
 
 Pre-trained models can be obtained from https://drive.google.com/file/d/1YBDi-wygUCp24dUXSrIdwsXouRBFRLsq/view?usp=sharing.
 
