@@ -8,3 +8,10 @@ Checkpoints for pre-trained models can be obtained from https://drive.google.com
 The dataset used for fine-tuning the LLM is available from https://drive.google.com/file/d/1NIBObHewm0rpFacEvc5yxspilzVwddTS/view?usp=sharing, where news subjects and outputs constitute the Motivation Cropus.
 
 The dataset used in the evaluation can be obtained from https://drive.google.com/file/d/1vo6io7Mnmdk94n8jMM9fRBa9Km4GmGRT/view?usp=sharing.
+
+
+
+You can run main_CH.py to repeat our experiment on WEIBO21.
+You can run main_EN.py to repeat our experiment on PHEME.
+
+If you want to train LLaMA yourself, you can download LLaMA_Factory from https://github.com/hiyouga/LLaMA-Factory.
