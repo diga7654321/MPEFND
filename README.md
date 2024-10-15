@@ -12,6 +12,7 @@ The dataset used in the evaluation can be obtained from https://drive.google.com
 
 
 You can run main_CH.py to repeat our experiment on WEIBO21.
+
 You can run main_EN.py to repeat our experiment on PHEME.
 
 If you want to train LLaMA yourself, you can download LLaMA_Factory from https://github.com/hiyouga/LLaMA-Factory.
