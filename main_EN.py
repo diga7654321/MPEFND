@@ -22,7 +22,6 @@ def load_data(input_file):
     judgements = []
     labels = []
 
-
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
